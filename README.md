@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nicole Ednilan</h1>
-<h3 align="center">A student at the University of Mindanao</h3>
+<h3 align="center">A Student at the University of Mindanao</h3>
 
 <p align="left">
 </p>

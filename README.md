@@ -1,7 +1,7 @@
 Hi I'm Nicole Ednilan
 =======================================================================================================================================
 
-Web Development and System Design
+Web Development and System Architecture
 ---------------------------------
 
 I'm currently learning other programming languages and frameworks
